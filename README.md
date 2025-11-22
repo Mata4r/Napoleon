@@ -10,7 +10,7 @@
 - git clone https://github.com/Mata4r/Napoleon.git
 - cd Ncap
 - pip install scapy
-- python Ncap.py
+- python Napoleon.py
 
 # Linux Installation
 - Run Terminal
@@ -19,4 +19,4 @@
 - sudo apt update
 - sudo apt install python3 python3-pip -y
 - pip3 install scapy
-- sudo python3 Ncap.py
+- sudo python3 Napoleon.py
