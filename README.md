@@ -1,5 +1,3 @@
-# Napoleon
-
 # Features
 - Network sniffing
 - Arp spoofing
